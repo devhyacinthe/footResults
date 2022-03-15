@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Body from './pages/Body';
+import Home from './pages/Home';
 import PremierLeaguePage from './pages/PremierLeaguePage';
 import BundesligaPage from './pages/BundesligaPage';
 import EredivisiePage from './pages/EredivisiePage';
@@ -14,7 +14,7 @@ const App = () => {
     return (
         <BrowserRouter>
             <Routes>
-                <Route path='/' element={<Body />}></Route>
+                <Route path='/' element={<Home />}></Route>
                 <Route path='/PremierLeague' element={<PremierLeaguePage />}></Route>
                 <Route path='/Liga' element={<LigaPage />}></Route>
                 <Route path='/Ligue1' element={<Ligue1Page />}></Route>

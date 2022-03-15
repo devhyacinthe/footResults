@@ -1,0 +1,12 @@
+.card{
+    border-radius: 5px;
+    box-shadow: 15px;
+    margin: 12px;
+    padding: 5px;
+    cursor: pointer;
+    background-color:aliceblue;
+};
+
+.event_status{
+    color: green,
+}

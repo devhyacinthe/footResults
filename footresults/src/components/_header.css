@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@1,100&display=swap');
+
+
+.header{
+    background-color: salmon;
+    text-align: center;
+    cursor: pointer;
+    color: white;
+    font-size: 28px;
+    font-weight: bold;
+    border-radius: 5px;
+    box-shadow: 3px;
+    font-family: 'Noto Serif Display', serif;
+    margin: 4px;
+    
+}

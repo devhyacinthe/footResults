@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@1,100&family=Source+Sans+Pro:ital,wght@1,200&display=swap');
+
+.listContainer{
+    padding: 8px;
+    background-color:aquamarine;
+    border-radius: 8px;
+    box-shadow: 15px;
+    height: 50px;
+}
+
+.list{
+    font-family: 'Source Sans Pro', sans-serif;
+    color: black;
+    display: grid;
+    grid-template-columns: 14.28% 14.28% 14.28% 14.28% 14.28% 14.28% 14.28%;
+}
+
+
+
+.p1{
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    transition: transform .2s ease-in-out;
+}
+.p1:hover{
+    cursor: pointer;
+    color: salmon;
+    
+}
+
+.p2{
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    transition: transform .2s ease-in-out;
+}
+.p2:hover{
+    cursor: pointer;
+    color: salmon;
+}
+
+.p3{
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    transition: transform .2s ease-in-out;
+}
+.p3:hover{
+    cursor: pointer;
+    color: salmon;
+}
+.p4{
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    transition: transform .2s ease-in-out;
+}
+.p4:hover{
+    cursor: pointer;
+    color: salmon;
+}
+
+.p5{
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    transition: transform .2s ease-in-out;
+}
+.p5:hover{
+    cursor: pointer;
+    color: salmon;
+}
+
+.p6{
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    transition: transform .2s ease-in-out;
+}
+.p6:hover{
+    cursor: pointer;
+    color: salmon;
+}
+
+.p7{
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    transition: transform .2s ease-in-out;
+}
+.p7:hover{
+    cursor: pointer;
+    color: salmon;
+}
+
+.p8{
+    margin: 15px;
+    color: black;
+    font-weight: bold;
+    transition: transform .2s ease-in-out;
+}
+.p8:hover{
+    cursor: pointer;
+    color: salmon;
+}
